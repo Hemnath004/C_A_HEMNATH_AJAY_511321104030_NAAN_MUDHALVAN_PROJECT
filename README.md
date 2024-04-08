@@ -2,7 +2,7 @@
 
 
 
-##PROJECT CREATED BY : 
+## PROJECT CREATED BY : 
 
    NAME: C.A.HEMNATH AJAY
 
@@ -17,7 +17,7 @@
 
 
 
-##LOGIN DETAILS:
+## LOGIN DETAILS:
 
 
    Username: admin
@@ -28,7 +28,7 @@
 
 
 
-##Project Running steps:
+## Project Running steps:
 
 python manage.py makemigrations
 

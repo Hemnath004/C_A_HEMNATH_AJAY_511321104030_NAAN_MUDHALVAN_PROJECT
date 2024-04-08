@@ -1,0 +1,15 @@
+{% extends 'myapp/base.html' %} {% block content %}
+<div class="container py-5">
+    <div class="card bg-gradient bg-dark">
+        <div class="card-body">
+            <h2 class="my-3 text-center text-info bg-dark">Welcome to Bus Reservation System</h2>
+        </div>
+       
+    </div>
+    <div class="card-footer text-center">
+        <a href="/findbus" class="btn btn-danger btn-lg active" role="button" aria-pressed="true" style="width: 200px;">Find Bus</a>
+        
+        <a href="/seebookings" class="btn btn-success btn-lg active" role="button" aria-pressed="true" style="width: 200px;">See Bookings</a>
+    </div>
+</div>
+{% endblock %}
